@@ -1,0 +1,22 @@
+@charset "EUC-KR";
+
+@font-face {
+     font-family: 'Handon3gyeopsal600g';
+     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_seven@1.2/Handon3gyeopsal600g.woff') format('woff');
+     font-weight: normal;
+     font-style: normal;
+}
+
+.home_btn{
+	font-family: 'Handon3gyeopsal600g';
+	width:300px;
+	height:100px;
+	border: none;
+	background-color:#d2ebd9;
+	color:#258f41;
+	font-weight:normal;
+	display:block;
+	margin:0 auto;
+	font-size:18px;
+
+}
